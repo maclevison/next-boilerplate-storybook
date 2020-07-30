@@ -1,0 +1,27 @@
+{
+  "name": "React Avançado",
+  "short_name": "RA",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#06092b",
+  "background_color": "#06092b",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
